@@ -61,3 +61,13 @@ yarn preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+### Image Screen shots
+
+List Add Data
+
+![List Add Data](img/list.38.18.png "List Add Data")
+
+Edit Data
+
+![Edit Data](img/edit.38.35.png "Edit Data")
